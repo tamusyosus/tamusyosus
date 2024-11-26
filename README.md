@@ -1,7 +1,7 @@
 ## Hi there 👋
 This is my first Git repository.
 <br>
-Author - Tamusyosus
+Author - Tamusyosus(Programmer)
 
 <!--
 **tamusyosus/tamusyosus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
